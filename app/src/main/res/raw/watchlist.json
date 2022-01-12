@@ -1,0 +1,550 @@
+{
+  "watchlist": {
+    "ABCAPITAL": {
+      "display_name": "Aditya Birla Capital",
+      "fallbelow": 125.0,
+      "riseabove": 120.0,
+      "ltp": 117.05,
+      "token": 21614,
+      "active": true
+    },
+    "AFFLE": {
+      "display_name": "Affle India",
+      "fallbelow": 1050.0,
+      "riseabove": 1250.0,
+      "ltp": 1084.85,
+      "active": false
+    },
+    "AUROPHARMA": {
+      "display_name": "Aurobindo Pharma",
+      "fallbelow": 675.0,
+      "riseabove": 700.0,
+      "ltp": 680.4,
+      "token": 275,
+      "active": true
+    },
+    "DMART": {
+      "display_name": "Avenue Supermart",
+      "fallbelow": 4650.0,
+      "riseabove": 4750.0,
+      "ltp": 4685.25,
+      "token": 19913,
+      "active": true
+    },
+    "BANDHANBNK": {
+      "display_name": "Bandhan Bank",
+      "fallbelow": 265.0,
+      "riseabove": 275.0,
+      "ltp": 267.0,
+      "token": 2263,
+      "active": true
+    },
+    "BARBEQUE": {
+      "display_name": "Barbeque Nation",
+      "fallbelow": 1350.0,
+      "riseabove": 1500.0,
+      "ltp": 1401.0,
+      "active": false
+    },
+    "BSE": {
+      "display_name": "BSE Ltd",
+      "fallbelow": 1950.0,
+      "riseabove": 1970.0,
+      "ltp": 1968.2,
+      "token": 19585,
+      "active": true
+    },
+    "CAMS": {
+      "display_name": "CAMS",
+      "fallbelow": 2640.0,
+      "riseabove": 2660.0,
+      "ltp": 2650.0,
+      "token": 342,
+      "active": true
+    },
+    "CARBORUNIV": {
+      "display_name": "Carborundum Universal",
+      "fallbelow": 800.0,
+      "riseabove": 1000.0,
+      "ltp": 904.6,
+      "active": false
+    },
+    "CDSL": {
+      "display_name": "CDSL",
+      "fallbelow": 1550.0,
+      "riseabove": 1570.0,
+      "ltp": 1563.0,
+      "token": 21174,
+      "active": true
+    },
+    "CLEAN": {
+      "display_name": "Clean Science & Tech",
+      "fallbelow": 2350.0,
+      "riseabove": 2400.0,
+      "ltp": 2405.25,
+      "token": 5049,
+      "active": true
+    },
+    "DCBBANK": {
+      "display_name": "DCB Bank",
+      "fallbelow": 82.0,
+      "riseabove": 85.0,
+      "ltp": 82.85,
+      "token": 13725,
+      "active": true
+    },
+    "DEEPAKNTR": {
+      "display_name": "Deepak Nitrite",
+      "fallbelow": 2200.0,
+      "riseabove": 2400.0,
+      "ltp": 2269.0,
+      "active": false
+    },
+    "DEVYANI": {
+      "display_name": "Devyani International",
+      "fallbelow": 170.0,
+      "riseabove": 200.0,
+      "ltp": 175.75,
+      "token": 5373,
+      "active": false
+    },
+    "DIXON": {
+      "display_name": "Dixon Tech",
+      "fallbelow": 5350.0,
+      "riseabove": 5800.0,
+      "ltp": 5390.95,
+      "active": false
+    },
+    "EASEMYTRIP BE": {
+      "display_name": "Easy Trip",
+      "fallbelow": 500.0,
+      "riseabove": 600.0,
+      "ltp": 561.5,
+      "active": false
+    },
+    "ECLERX": {
+      "display_name": "eClerx Services",
+      "fallbelow": 2100.0,
+      "riseabove": 2300.0,
+      "ltp": 2274.0,
+      "active": false
+    },
+    "FSL": {
+      "display_name": "Firstsource Solutions",
+      "fallbelow": 165.0,
+      "riseabove": 170.0,
+      "ltp": 167.4,
+      "token": 14304,
+      "active": true
+    },
+    "GRINFRA": {
+      "display_name": "G R Infra",
+      "fallbelow": 1700.0,
+      "riseabove": 1710.0,
+      "ltp": 1706.95,
+      "token": 5054,
+      "active": true
+    },
+    "GLS": {
+      "display_name": "Glenmark Lifescience",
+      "fallbelow": 605.0,
+      "riseabove": 610.0,
+      "ltp": 605.15,
+      "token": 5265,
+      "active": true
+    },
+    "GRAVITA": {
+      "display_name": "Gravita India",
+      "fallbelow": 200.0,
+      "riseabove": 250.0,
+      "ltp": 226.1,
+      "active": false
+    },
+    "HAPPSTMNDS": {
+      "display_name": "Happiest Minds",
+      "fallbelow": 1250.0,
+      "riseabove": 1260.0,
+      "ltp": 1260.0,
+      "token": 48,
+      "active": true
+    },
+    "HCLTECH": {
+      "display_name": "HCL Tech",
+      "fallbelow": 1130.0,
+      "riseabove": 1190.0,
+      "ltp": 1170.9,
+      "active": false
+    },
+    "HDFCBANK": {
+      "display_name": "HDFC Bank",
+      "fallbelow": 1460.0,
+      "riseabove": 1500.0,
+      "ltp": 1476.95,
+      "token": 1333,
+      "active": true
+    },
+    "HDFCLIFE": {
+      "display_name": "HDFC Life",
+      "fallbelow": 650.0,
+      "riseabove": 700.0,
+      "ltp": 656.9,
+      "active": false
+    },
+    "HFCL": {
+      "display_name": "HFCL",
+      "fallbelow": 79.0,
+      "riseabove": 83.0,
+      "ltp": 80.0,
+      "token": 21951,
+      "active": true
+    },
+    "HGINFRA": {
+      "display_name": "H G Infra",
+      "fallbelow": 550.0,
+      "riseabove": 700.0,
+      "ltp": 592.85,
+      "active": false
+    },
+    "HIKAL": {
+      "display_name": "Hikal",
+      "fallbelow": 510.0,
+      "riseabove": 520.0,
+      "ltp": 519.0,
+      "token": 9668,
+      "active": true
+    },
+    "HINDUNILVR": {
+      "display_name": "Hindustan Unilever",
+      "fallbelow": 2220.0,
+      "riseabove": 2300.0,
+      "ltp": 2229.0,
+      "active": false
+    },
+    "HINDZINC": {
+      "display_name": "Hindustan Zinc",
+      "fallbelow": 310.0,
+      "riseabove": 320.0,
+      "ltp": 311.55,
+      "token": 1424,
+      "active": true
+    },
+    "IDBIGOLD": {
+      "display_name": "IDBI Gold ETF",
+      "fallbelow": 4370.0,
+      "riseabove": 4500.0,
+      "ltp": 4499.95,
+      "token": 25640,
+      "active": true
+    },
+    "IEX": {
+      "display_name": "IEX",
+      "fallbelow": 250.0,
+      "riseabove": 270.0,
+      "ltp": 256.95,
+      "token": 220,
+      "active": true
+    },
+    "IRCTC": {
+      "display_name": "IRCTC",
+      "fallbelow": 830.0,
+      "riseabove": 860.0,
+      "ltp": 831.4,
+      "token": 13611,
+      "active": true
+    },
+    "IRFC": {
+      "display_name": "IRFC",
+      "fallbelow": 22.5,
+      "riseabove": 23.0,
+      "ltp": 22.80,
+      "token": 2029,
+      "active": true
+    },
+    "ITC": {
+      "display_name": "ITC",
+      "fallbelow": 216.0,
+      "riseabove": 220.0,
+      "ltp": 218.1,
+      "token": 1660,
+      "active": true
+    },
+    "JUBLINGREA": {
+      "display_name": "Jubilant Ingrevia",
+      "fallbelow": 550.0,
+      "riseabove": 570.0,
+      "ltp": 559.2,
+      "token": 2783,
+      "active": true
+    },
+    "KPITTECH": {
+      "display_name": "KPIT Tech",
+      "fallbelow": 480.0,
+      "riseabove": 550.0,
+      "ltp": 481.25,
+      "active": false
+    },
+    "LATENTVIEW": {
+      "display_name": "Latent View",
+      "fallbelow": 590.0,
+      "riseabove": 610.0,
+      "ltp": 592.75,
+      "token": 6818,
+      "active": true
+    },
+    "LTTS": {
+      "display_name": "L&T Tech Services",
+      "fallbelow": 5000.0,
+      "riseabove": 5750.0,
+      "ltp": 5443.2,
+      "active": false
+    },
+    "MAFANG": {
+      "display_name": "FANG+ ETF",
+      "fallbelow": 55.0,
+      "riseabove": 56.0,
+      "ltp": 55.2,
+      "token": 3507,
+      "active": true
+    },
+    "MASTEK": {
+      "display_name": "Mastek",
+      "fallbelow": 2650.0,
+      "riseabove": 3000.0,
+      "ltp": 2743.05,
+      "active": false
+    },
+    "MCX": {
+      "display_name": "MCX",
+      "fallbelow": 1630.0,
+      "riseabove": 1670.0,
+      "ltp": 1636.7,
+      "token": 31181,
+      "active": true
+    },
+    "MOTHERSUMI": {
+      "display_name": "Motherson Sumi",
+      "fallbelow": 211.0,
+      "riseabove": 215.0,
+      "ltp": 212.45,
+      "token": 4204,
+      "active": true
+    },
+    "MPHASIS": {
+      "display_name": "Mphasis",
+      "fallbelow": 3100.0,
+      "riseabove": 3300.0,
+      "ltp": 3244.05,
+      "active": false
+    },
+    "MTARTECH": {
+      "display_name": "MTAR Tech",
+      "fallbelow": 2200.0,
+      "riseabove": 2250.0,
+      "ltp": 2220.0,
+      "token": 2709,
+      "active": true
+    },
+    "NAZARA BE": {
+      "display_name": "Nazara Tech",
+      "fallbelow": 2230.0,
+      "riseabove": 2260.0,
+      "ltp": 2239.1,
+      "token": 2992,
+      "active": true
+    },
+    "NETFIT": {
+      "display_name": "NI ETF Nifty IT",
+      "fallbelow": 37.0,
+      "riseabove": 37.8,
+      "ltp": 37.49,
+      "token": 19084,
+      "active": true
+    },
+    "NMDC": {
+      "display_name": "NMDC",
+      "fallbelow": 134.0,
+      "riseabove": 137.0,
+      "ltp": 135.1,
+      "token": 15332,
+      "active": true
+    },
+    "NYKAA": {
+      "display_name": "Nykaa",
+      "fallbelow": 2060.0,
+      "riseabove": 2150.0,
+      "ltp": 2099.35,
+      "token": 6545,
+      "active": true
+    },
+    "PARAS": {
+      "display_name": "Paras Defence",
+      "fallbelow": 680.0,
+      "riseabove": 700.0,
+      "ltp": 693.3,
+      "token": 5911,
+      "active": true
+    },
+    "PAYTM": {
+      "display_name": "PayTM",
+      "fallbelow": 1310.0,
+      "riseabove": 1340.0,
+      "ltp": 1325.05,
+      "token": 6705,
+      "active": true
+    },
+    "PERSISTENT": {
+      "display_name": "Persistent Systems",
+      "fallbelow": 4630.0,
+      "riseabove": 4680.0,
+      "ltp": 4670.0,
+      "token": 18365,
+      "active": true
+    },
+    "PHILIPCARB": {
+      "display_name": "Philips Carbon",
+      "fallbelow": 215.0,
+      "riseabove": 235.0,
+      "ltp": 226.7,
+      "active": false
+    },
+    "QUESS": {
+      "display_name": "Quess Corp",
+      "fallbelow": 810.0,
+      "riseabove": 870.0,
+      "ltp": 828.1,
+      "token": 17704,
+      "active": true
+    },
+    "RELIANCE": {
+      "display_name": "Reliance Industries",
+      "fallbelow": 2330.0,
+      "riseabove": 2400.0,
+      "ltp": 2339.4,
+      "token": 2885,
+      "active": true
+    },
+    "ROUTE": {
+      "display_name": "Route Mobile",
+      "fallbelow": 1780.0,
+      "riseabove": 1850.0,
+      "ltp": 1794.95,
+      "token": 128,
+      "active": true
+    },
+    "SAIL": {
+      "display_name": "SAIL",
+      "fallbelow": 110.0,
+      "riseabove": 120.0,
+      "ltp": 112.7,
+      "token": 2963,
+      "active": true
+    },
+    "SBICARD": {
+      "display_name": "SBI Cards",
+      "fallbelow": 900.0,
+      "riseabove": 920.0,
+      "ltp": 902.05,
+      "token": 17971,
+      "active": true
+    },
+    "SONACOMS": {
+      "display_name": "Sona BLW",
+      "fallbelow": 740.0,
+      "riseabove": 780.0,
+      "ltp": 773.05,
+      "token": 4684,
+      "active": true
+    },
+    "SONATSOFTW": {
+      "display_name": "Sonata Software",
+      "fallbelow": 830.0,
+      "riseabove": 860.0,
+      "ltp": 833.5,
+      "token": 6596,
+      "active": true
+    },
+    "SUMICHEM": {
+      "display_name": "Sumitomo Chemicals",
+      "fallbelow": 350.0,
+      "riseabove": 420.0,
+      "ltp": 362.05,
+      "active": false
+    },
+    "TARSONS": {
+      "display_name": "Tarsons Products",
+      "fallbelow": 600.0,
+      "riseabove": 660.0,
+      "ltp": 615.4,
+      "token": 6943,
+      "active": true
+    },
+    "TATAMOTORS": {
+      "display_name": "Tata Motors",
+      "fallbelow": 460.0,
+      "riseabove": 490.0,
+      "ltp": 469.8,
+      "token": 7358,
+      "active": true
+    },
+    "TATAPOWER": {
+      "display_name": "Tata Power",
+      "fallbelow": 200.0,
+      "riseabove": 270.0,
+      "ltp": 215.75,
+      "active": false
+    },
+    "TATASTEEL": {
+      "display_name": "Tata Steel",
+      "fallbelow": 1120.0,
+      "riseabove": 1200.0,
+      "ltp": 1129.45,
+      "token": 3499,
+      "active": true
+    },
+    "TCI": {
+      "display_name": "Transport Corp of India",
+      "fallbelow": 420.0,
+      "riseabove": 850.0,
+      "ltp": 735.6,
+      "active": false
+    },
+    "TEJASNET": {
+      "display_name": "Tejas Networks",
+      "fallbelow": 410.0,
+      "riseabove": 500.0,
+      "ltp": 416.35,
+      "active": false
+    },
+    "TRIDENT": {
+      "display_name": "Trident",
+      "fallbelow": 50.0,
+      "riseabove": 60.0,
+      "ltp": 54.5,
+      "active": false
+    },
+    "WIPRO": {
+      "display_name": "Wipro",
+      "fallbelow": 650.0,
+      "riseabove": 680.0,
+      "ltp": 675.65,
+      "token": 3787,
+      "active": true
+    },
+    "ZENTEC": {
+      "display_name": "Zen Tech",
+      "fallbelow": 210.0,
+      "riseabove": 220.0,
+      "ltp": 215.85,
+      "token": 7508,
+      "active": true
+    },
+    "ZOMATO": {
+      "display_name": "Zomato",
+      "fallbelow": 135.0,
+      "riseabove": 142.0,
+      "ltp": 139.9,
+      "token": 5097,
+      "active": true
+    }
+  }
+}
